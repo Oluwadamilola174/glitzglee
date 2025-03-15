@@ -1,0 +1,25 @@
+.package-details {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .package-details h1 {
+    font-size: 2rem;
+    color: #ff69b4;
+  }
+  
+  .package-details p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  .package-details button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

@@ -4,14 +4,13 @@ import logo from '../../assets/glitz logoo.png'
 const Navbar = () => {
   return (
     <nav className='container'>
-        <img src={logo} alt="" />
+        <img src={logo} alt=""/>
         <ul>
             <li>Home</li>
             <li>Package</li>
-            <li>Decoration</li>
-            <li>About Us</li>
             <li>Reviews</li>
-            <li>Contact us</li>
+            <li>About Us</li>
+            <li><button className='btn'>Contact Us</button></li>
         </ul>
     </nav>
   )
